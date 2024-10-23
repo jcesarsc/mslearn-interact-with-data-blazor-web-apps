@@ -1,0 +1,2 @@
+Curso do link abaixo:
+https://learn.microsoft.com/en-us/training/modules/interact-with-data-blazor-web-apps/1-introduction
